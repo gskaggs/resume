@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1591118979 "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.tex" "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.pdf" "Rushi_Shah_Resume" 1591118980
-  "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.aux" 1591118980 1082 54f9600d4c828496bdeaa929cfa02438 ""
-  "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.tex" 1591118978 13698 4d660e76fe0ed3b74026daa29f3570ea ""
+["pdflatex"] 1591119705 "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.tex" "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.pdf" "Rushi_Shah_Resume" 1591119705
+  "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.aux" 1591119705 1077 799080e6cda254bd105e4ca40d4caf17 ""
+  "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.tex" 1591119704 13508 1f7cc3120172bfecc51795e40793029a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1480098668 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1480098668 2840 216e6e45ad352e2456e1149f28885bee ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -104,9 +104,9 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "Rushi_Shah_Resume.aux" 1591118980 1082 54f9600d4c828496bdeaa929cfa02438 ""
-  "Rushi_Shah_Resume.out" 1591118980 576 9917751e9e9fea0368211100120fbd4e ""
-  "Rushi_Shah_Resume.tex" 1591118978 13698 4d660e76fe0ed3b74026daa29f3570ea ""
+  "Rushi_Shah_Resume.aux" 1591119705 1077 799080e6cda254bd105e4ca40d4caf17 ""
+  "Rushi_Shah_Resume.out" 1591119705 554 be97277beebae5759ba153012e6b9cf5 ""
+  "Rushi_Shah_Resume.tex" 1591119704 13508 1f7cc3120172bfecc51795e40793029a ""
   "moderncv.cls" 1591071767 17327 4a93be9d315b9cbd33397f3b722274cd ""
   "moderncvcolorblue.sty" 1591033589 1088 5167a02e915d9fd40b8486665f8b54db ""
   "moderncvcompatibility.sty" 1591033589 3398 356ff0626d1912510390575078c99133 ""
@@ -114,8 +114,8 @@
   "tweaklist.sty" 1591033589 1966 8ce3a021c0bc6369db88faeddf828d71 ""
   (generated)
   "Rushi_Shah_Resume.aux"
-  "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.log"
-  "Rushi_Shah_Resume.out"
   "Rushi_Shah_Resume.pdf"
+  "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.log"
   "/Users/gskaggs/resume/latex_resume/Rushi_Shah_Resume.pdf"
   "Rushi_Shah_Resume.log"
+  "Rushi_Shah_Resume.out"
