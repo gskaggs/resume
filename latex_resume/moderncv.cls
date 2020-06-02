@@ -350,6 +350,7 @@
 % makes a typical resume job / education entry
 % usage: \cventry[spacing]{years}{degree/job title}{institution/employer}{localization}{optionnal: grade/...}{optional: comment/job description}
 \newcommand*{\cventry}[7][.25em]{}
+\newcommand*{\cventr}[7][.25em]{}
 
 % makes a resume entry with a proficiency comment
 % usage: \cvitemwithcomment[spacing]{header}{text}{comment}
