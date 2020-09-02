@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 SEP 2020 09:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 SEP 2020 09:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -787,16 +787,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 72.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 72.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
  (/Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 291.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 291.
 Package rerunfilecheck Info: File `Grant_Skaggs_Resume.out' has not changed.
-(rerunfilecheck)             Checksum: BE97277BEEBAE5759BA153012E6B9CF5;554.
+(rerunfilecheck)             Checksum: A354D437027D0B9C8C2B7A11AC4CD515;554.
  ) 
 Here is how much of TeX's memory you used:
  20507 strings out of 492649
@@ -807,7 +807,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  43i,13n,67p,10471b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on /Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume.pdf (1 page, 157728 bytes).
+Output written on /Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume.pdf (1 page, 157720 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream
