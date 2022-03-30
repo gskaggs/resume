@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  29 SEP 2020 14:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  30 MAR 2022 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/gskaggs/resume/latex_resume/Hardware.tex
-(/Users/gskaggs/resume/latex_resume/Hardware.tex
+**/Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume_2022.tex
+(/Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume_2022.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/Users/gskaggs/resume/latex_resume/moderncv.cls
@@ -642,8 +642,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 64.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 64.
- (/Users/gskaggs/resume/latex_resume/Hardware.aux)
-\openout1 = `Hardware.aux'.
+ (/Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume_2022.aux)
+\openout1 = `Grant_Skaggs_Resume_2022.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
@@ -748,9 +748,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 64.
 LaTeX Info: Redefining \pageref on input line 64.
 LaTeX Info: Redefining \nameref on input line 64.
- (/Users/gskaggs/resume/latex_resume/Hardware.out) (/Users/gskaggs/resume/latex_resume/Hardware.out)
+ (/Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume_2022.out) (/Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume_2022.out)
 \@outlinefile=\write3
-\openout3 = `Hardware.out'.
+\openout3 = `Grant_Skaggs_Resume_2022.out'.
 
 \makecvtitledetailsbox=\box44
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 66.
@@ -787,30 +787,30 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 72.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 72.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
- (/Users/gskaggs/resume/latex_resume/Hardware.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 293.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 293.
-Package rerunfilecheck Info: File `Hardware.out' has not changed.
-(rerunfilecheck)             Checksum: AC436305368B98242429DD492F1DE272;554.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
+ (/Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume_2022.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
+Package rerunfilecheck Info: File `Grant_Skaggs_Resume_2022.out' has not changed.
+(rerunfilecheck)             Checksum: 8AA2B975D271613D9DBBEEC96F8CC501;589.
  ) 
 Here is how much of TeX's memory you used:
- 20508 strings out of 492649
- 353288 string characters out of 6129622
- 555550 words of memory out of 5000000
- 24186 multiletter control sequences out of 15000+600000
- 580260 words of font info for 70 fonts, out of 8000000 for 9000
+ 20511 strings out of 492649
+ 353522 string characters out of 6129622
+ 555632 words of memory out of 5000000
+ 24187 multiletter control sequences out of 15000+600000
+ 580343 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,13n,67p,10460b,376s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,11n,67p,10476b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on /Users/gskaggs/resume/latex_resume/Hardware.pdf (1 page, 159138 bytes).
+Output written on /Users/gskaggs/resume/latex_resume/Grant_Skaggs_Resume_2022.pdf (1 page, 157037 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
  16433 words of extra memory for PDF output out of 17280 (max. 10000000)
 
