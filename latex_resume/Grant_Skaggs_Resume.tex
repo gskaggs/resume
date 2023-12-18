@@ -64,24 +64,22 @@
 \begin{document}
 
 \makecvtitle % Print the CV title
-%----------------------------------------------------------------------------------------
-%	EDUCATION SECTION
-%----------------------------------------------------------------------------------------
-\section{Education} 
-
-\cventry{May 2022}{University of Texas at Austin}{Turing Scholar Honors Program}{}{}{{B.S. Computer Science \& Philosophy Minor; \textbf{GPA: 3.96}}}
-\cventr{}{Coursework}{}{Algorithms, Data Structures, Data Mining, Operating Systems, Computer Architecture, Cryptography, Quantum Computing, Graphics, Physical Simulation, Competitive Programming}{}{}
  % Arguments not required can be left empty
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION
 %----------------------------------------------------------------------------------------
 
 \section{Experience}
-
+\cventry{Sept 2022 - Present}{Applied Intuition}{Software Engineer}{}{}{
+	\begin{description}
+		 \item[$\bullet$] Created a new \textbf{Python} service for translating map data across various industry map formats
+		 \item[$\bullet$] Developed, demo-ed, and workshop-ed a new user-facing feature for AV simulation creation using \textbf{React}
+		 \item[$\bullet$] Migrated map querying infrastructure to \textbf{Apache Spark,} reducing query latency by as much as 10x
+	\end{description} 
+}
 \cventry{Summer 2020}{Duolingo}{Software Engineering Intern}{}{}{
 	\begin{description}
-		 \item[$\bullet$] Deployed a weekly timer boost prize for premium subscribers of Duolingo's \textbf{iOS} app
-		 \item[$\bullet$] Worked closely with product designers to implement the new feature's user interface using \textbf{Swift} and \textbf{UIKit}
+		 \item[$\bullet$] Created a weekly in-app prize for premium subscribers of the iOS app, using \textbf{Swift} and \textbf{UIKit}
 		 \item[$\bullet$] Developed the backend API in \textbf{Python, Java,} and \textbf{Kotlin;} recorded prize usage in a \textbf{SQL database}
 	\end{description} 
 }
@@ -95,62 +93,62 @@
 	\end{description}
 } % Teaching Assistant for graduate level CS 389L Automated Logical Reasining 
 
-\section{Projects}
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+\section{Education} 
 
+\cventry{May 2022}{University of Texas at Austin}{Turing Scholar Honors Program}{}{}{{B.S. Computer Science \& Philosophy Minor; \textbf{GPA: 3.96}}}
+\cventr{}{Coursework}{}{Algorithms, Data Structures, Data Mining, Operating Systems, Computer Architecture, Cryptography, Quantum Computing, Graphics, Physical Simulation, Competitive Programming}{}{}
+
+%----------------------------------------------------------------------------------------
+%   PROJECTS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Projects}
+\cventry{Spring 2022}{Genetic Algorithms for the Simulation of Flower Pigmentation Patterns}{Python, C++}{}{}{
+	\begin{description}
+		\item[$\bullet$] Applied genetic algorithms to fine-tune parameters for the reaction-diffusion differential equations which produce flower pigmentation patterns
+		\item[$\bullet$] Published as a \textbf{20-page honors thesis} at the University of Texas; read more at \underline{\httplink{grantskaggs.com/thesis}}
+	\end{description}}
+	
 \cventry{Summer 2020}{Pyxeled}{Python}{}{}{
 	\begin{description}
 		\item[$\bullet$] Applied \textbf{machine learning} fundamentals to transform normal photographs into aesthetic pixel art
-		\item[$\bullet$] Implemented intelligent \textbf{clustering alogorithms} to preserve image features at lower resolutions and limited color palettes; published a webpage gallery to exhibit generated pixel art at \underline{\httplink{grantskaggs.com/pyxeled}}
+		\item[$\bullet$] Implemented intelligent \textbf{clustering alogorithms} to preserve image features at lower resolutions and limited color palettes; published a webpage gallery to exhibit generated pixel art
 	\end{description}}
 
-\cventry{Summer 2019}{RayTracer}{C++}{}{}{
+\section{Leadership}
+
+\cventry{Spring 2021 - Aug 2022}{Texas 4000 for Cancer}{Equipment and Gear Manager}{}{}{
 	\begin{description}
-		\item[$\bullet$] Developed a \textbf{ray-tracer} in \textbf{C++} to render 3-Dimensional scenes
-		\item[$\bullet$] Implemented features: Polygonal meshes, 3D object rotation/distortion, recursive reflection and refractions, point and directional lighting, multithreading, variable material types, shadows, specular and diffuse shading
-	\end{description}}
-
-\cventry{Fall 2018}{Webcrawler}{Java}{}{}{
-	\begin{description}
-		\item[$\bullet$] Designed a \textbf{Java application} for web crawling, page indexing, and search
-		\item[$\bullet$] Included a graphical user interface, page-ranking features, and a robust web query parser
-	\end{description}}
-
-
-\section{Mentorship}
-
-\cventry{Fall 2020 - Present}{University of Texas Computer Science Department}{Pod Mentor}{}{}{
-	\begin{description}
-		\item[$\bullet$] Leading a small group of first year CS students in a weekly seminar to build CS community and connect students to CS-specific resources
-		% \item[$\bullet$] Research interest in program synthesis for database-driven web applications; implementations completed in Java programming language with Z3 SMT solver and Souffle Datalog engine
+		\item[$\bullet$] Coordinated training and logistics for a \textbf{4000 mile charity bike ride} from Austin to Alaska
+		% \item[$\bullet$] Responsible for bike repair and maintenance, as well as gear organization and distribution
+		% \item[$\bullet$] Personally fundraised more than 4500 dollars through letter-writing and social media campaigns 
+		\item[$\bullet$] Repaired bicycles during our 70-day bike ride and advocated for general gear maintenance
 	\end{description}
-}
+} 
 
 \cventry{Spring 2021}{University of Texas Computer Science Department}{Teaching Assistant}{}{}{
 	\begin{description}
-		\item[$\bullet$] Held office hours and graded projects for a honors computer graphics course
+		\item[$\bullet$] Held office hours and graded projects for an honors computer graphics course
 		% \item[$\bullet$] Research interest in program synthesis for database-driven web applications; implementations completed in Java programming language with Z3 SMT solver and Souffle Datalog engine
 	\end{description}
 }
 
 % \hfill
 
-\cventry{Summer 2019}{Austin Chinese Educational Services}{Course Instructor}{}{}{
-	\begin{description}
-		\item[$\bullet$] Led introductory Python and Scratch courses for elementary and middle school students; designed the course objectives and curriculum; taught daily lectures; helped students with their course projects
-	\end{description}
-} % Teaching Assistant for graduate level CS 389L Automated Logical Reasining 
-
 
 % \hfill 
 
 \section{Skills}
 
-\cventr{}{Proficient}{}{C/C++, Java, Python, HTML, CSS}{}{}
-\cventr{}{Familiar}{}{R, SQL, Excel, Javascript, Swift, Kotlin, Git, Bash, React, Google Firebase, numpy, scikit-learn, pandas, pytorch}{}{}
+\cventr{}{Proficient}{}{Python, C/C++, Typescript, React, Bash}{}{}
+\cventr{}{Familiar}{}{Kubernetes, Git, Java, SQL, HTML, CSS, Numpy, Pandas}{}{}
 
 \section{Honors / Awards}
 
-\cventr{}{Academic}{}{National Merit Scholar, National AP Scholar, Phi Beta Kappa Scholarship, CLHS Valedictorian}{}{}
+\cventr{}{Academic}{}{National Merit Scholar, National AP Scholar, High School Valedictorian}{}{}
 
 \cventr{}{STEM}{}{AIME Qualifier, Science Olympiad Gold Medalist, HackTX CDK Global Award, USACO Gold Ranking}{}{}
 
