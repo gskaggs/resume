@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.18)  18 FEB 2025 18:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.18)  18 FEB 2025 18:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -539,11 +539,11 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 \makecvtitledetailswidth=\skip76
 \makecvtitlepicturewidth=\skip77
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 80.
+(Font)              <10.95> on input line 81.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 80.
+(Font)              <8> on input line 81.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 80.
+(Font)              <6> on input line 81.
  [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
@@ -554,12 +554,12 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `Grant_Skaggs_Resume.out' has not changed.
-(rerunfilecheck)             Checksum: ACB2FBE7B132A4809392E59C85C6E875;518.
+(rerunfilecheck)             Checksum: F0EB970B43948D90DABCCA13ED5C67B2;533.
  ) 
 Here is how much of TeX's memory you used:
  13110 strings out of 474116
  214160 string characters out of 5743682
- 1955187 words of memory out of 5000000
+ 1956187 words of memory out of 5000000
  35193 multiletter control sequences out of 15000+600000
  609417 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -571,7 +571,7 @@ cal/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive
 /type1/public/lm/lmro10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/pub
 lic/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/marvos
 ym/marvosym.pfb>
-Output written on Grant_Skaggs_Resume.pdf (1 page, 163058 bytes).
+Output written on Grant_Skaggs_Resume.pdf (1 page, 163044 bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream
